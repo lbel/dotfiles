@@ -1,0 +1,13 @@
+Root.ZipMode:               1
+Unix.*.Editor:              vim
+
+Canvas.MoveOpaque:          false
+Canvas.ResizeOpaque:        false
+Canvas.UseScreenFactor:     true
+Canvas.ShowEventStatus:     true
+Canvas.ShowToolBar:         true
+Canvas.ShowEditor:          true
+
+Browser.IconStyle:          small
+
+RooFit.Banner:              no
